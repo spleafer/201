@@ -1,11 +1,11 @@
-/* Merrit Hicks on 4/14/2022 @ 3:39pm*/
+/* Merrit Hicks on 4/14/2022 @ 5:51pm*/
 
 /*dont touch this*/
 .hp{font-size: 17px;}
 
 /*Tablue*/
 /*.tabcommon{border:solid 5px;}*/
-.tabbg{color: whitesmoke;font-size: 20px; position: relative;}
+.tabbg{font-size: 20px; position: relative;}
 .tabhead{float: right;}
 .tabtitle{top: 5px; position: absolute; text-align: center;}
 .tabmain{left: 150px;right: 150px; bottom: 25px;top:  15px;text-align: center;}
@@ -13,6 +13,7 @@
 .tabbold{font-weight:900;}
 .tabit{font-style: italic;}
 .colorwhite{color: whitesmoke;}
+.colorblack{color: black;}
 
 /*home page, and About Me page*/
 .hpheader{position: absolute; }
